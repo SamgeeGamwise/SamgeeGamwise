@@ -1,6 +1,6 @@
 # Welcome
 
-My name is Samuel Krohn, I develop as a professional, a hobbyist, and as a student. I am a full stack developer that specializes in React, Vue, Node, PHP/Laravel. 
+My name is Samuel Krohn, I develop as a professional, student, and hobbyist. I am a full stack developer that specializes in React, Vue, Node, PHP/Laravel. 
 
 ## Career
 Please see my LinkedIn profile [here](https://www.linkedin.com/in/samkrohn/)
