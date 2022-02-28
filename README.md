@@ -6,7 +6,8 @@ My name is Samuel Krohn, I develop as a professional, student, and hobbyist. I a
 Please see my LinkedIn profile [here](https://www.linkedin.com/in/samkrohn/)
 
 ## Projects
-- [HarperDB Functions (NPM Package for Node)](https://github.com/Xoelos/harperdb-functions)
+- [HarperDB Functions (NPM Package for Node)](https://www.npmjs.com/package/hdb-functions)
+- [HarperDB Functions (GitHub Repo)](https://github.com/Xoelos/harperdb-functions)
 - [Announcement Bot (Discord bot in Node)](https://github.com/bubbzDotDev/bot-dashboard-backend)
 - [Paarre Frontend (Vue)](https://github.com/Xoelos/paarre)
 - [Paarre Backend (Node)](https://github.com/Xoelos/paarre-backend)
