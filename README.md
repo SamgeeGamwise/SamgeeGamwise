@@ -6,7 +6,7 @@ My name is Samuel Krohn, I develop as a professional, student, and hobbyist. I a
 Please see my LinkedIn profile [here](https://www.linkedin.com/in/samkrohn/)
 
 ## Projects
-- HarperDB Functions NPM Package [(Node)](https://www.npmjs.com/package/hdb-functions) [(GitHub Repo)](https://github.com/Xoelos/harperdb-functions)
+- HarperDB Functions NPM Package [(npmjs.com)](https://www.npmjs.com/package/hdb-functions) [(Node)](https://github.com/Xoelos/harperdb-functions)
 - Announcement Bot [(Node)](https://github.com/bubbzDotDev/bot-dashboard-backend)
 - Paarre [(Vue Frontend)](https://github.com/Xoelos/paarre) [(Node Backend)](https://github.com/Xoelos/paarre-backend)
 - Dragons D&D [(Vue Frontend)](https://github.com/Xoelos/dragons_laravel) [(Laravel Backend)](https://github.com/Xoelos/dragons_backend)
