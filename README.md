@@ -1,11 +1,13 @@
 # Welcome
 
-My name is Samuel Krohn, I develop as a professional, student, and hobbyist. I am a full stack developer that specializes in Vue, React, Node, and PHP/Laravel. 
+My name is Samuel Krohn, I develop as a professional, student, and hobbyist. I am a full stack developer that specializes in Vue, React, Angular 2+, and Node.
 
 ## Career
 Please see my LinkedIn profile [here](https://www.linkedin.com/in/samkrohn/)
 
 ## Projects
+- Dinnerio FE [(Angular)](https://github.com/SamgeeGamwise/dinnerio-angular)
+- Dinnerio API [(NestJS)](https://github.com/SamgeeGamwise/dinnerio)
 - HarperDB Functions NPM Package [(npmjs.com)](https://www.npmjs.com/package/hdb-functions) [(Node)](https://github.com/SamgeeGamwise/harperdb-functions)
 - Announcement Bot [(Node)](https://github.com/bubbzDotDev/bot-dashboard-backend)
 - Paarre [(Vue Frontend)](https://github.com/SamgeeGamwise/paarre) [(Node Backend)](https://github.com/SamgeeGamwise/paarre-backend)
