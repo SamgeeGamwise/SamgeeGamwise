@@ -2,7 +2,7 @@
 
 ## Hello! My Name Is Samuel Krohn!
 
-I develop as a professional, student, and hobbyist. I am a full stack developer that specializes in TypeScript projects.
+I develop as a professional, student, and hobbyist. I am a full stack developer that utilizes .NET and TypeScript.
 
 ### Projects
 - [Dinnerio](http://dinnerio.s3-website-us-west-2.amazonaws.com/) [(Angular)](https://github.com/SamgeeGamwise/dinnerio-angular) [(NestJS)](https://github.com/SamgeeGamwise/dinnerio)
