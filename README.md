@@ -13,7 +13,7 @@ I develop as a professional, student, and hobbyist. I am a full stack developer 
 - [Zombie Run!](http://zombierun.s3-website-us-west-2.amazonaws.com/) (Vanilla with Firebase)
 
 ### Technologies
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samgeegamwise&hide=javascript)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samgeegamwise&hide=javascript?theme=nightowl)
 
 ### Career
 Please see my LinkedIn profile [here](https://www.linkedin.com/in/samkrohn/)
