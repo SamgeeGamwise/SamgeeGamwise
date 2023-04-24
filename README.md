@@ -1,11 +1,9 @@
-# Welcome
 
-My name is Samuel Krohn, I develop as a professional, student, and hobbyist. I am a full stack developer that specializes in Vue, React, Angular 2+, and Node.
+## Hello! My Name Is Samuel Krohn!
 
-## Career
-Please see my LinkedIn profile [here](https://www.linkedin.com/in/samkrohn/)
+I develop as a professional, student, and hobbyist. I am a full stack developer that specializes in TypeScript projects.
 
-## Projects
+### Projects
 - [Dinnerio](http://dinnerio.s3-website-us-west-2.amazonaws.com/) [(Angular)](https://github.com/SamgeeGamwise/dinnerio-angular) [(NestJS)](https://github.com/SamgeeGamwise/dinnerio)
 - HarperDB Functions NPM Package [(npmjs.com)](https://www.npmjs.com/package/harperdb-node) [(Node)](https://github.com/SamgeeGamwise/harperdb-functions)
 - Announcement Bot [(Node)](https://github.com/bubbzDotDev/bot-dashboard-backend)
@@ -13,3 +11,9 @@ Please see my LinkedIn profile [here](https://www.linkedin.com/in/samkrohn/)
 - Dragons D&D [(Vue Frontend)](https://github.com/SamgeeGamwise/dragons_laravel) [(Laravel Backend)](https://github.com/SamgeeGamwise/dragons_backend)
 - Asteroids Arcade Game [(Python)](https://github.com/SamgeeGamwise/asteroids)
 - [Zombie Run!](http://zombierun.s3-website-us-west-2.amazonaws.com/) (Vanilla with Firebase)
+
+### Technologies
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samgeegamwise&hide=javascript)
+
+### Career
+Please see my LinkedIn profile [here](https://www.linkedin.com/in/samkrohn/)
