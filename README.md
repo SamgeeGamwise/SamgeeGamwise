@@ -4,6 +4,7 @@ I develop as a professional, student, and hobbyist. I am a full stack developer 
 
 ### Projects
 - SolarCleanColorado ([Gatsby.js](https://github.com/Solarcleancolorado/solarcleancolorado.github.io))(https://www.solarcleancolorado.com/)
+- 30 Minute Pomodoro Timer ([Electron](https://github.com/SamgeeGamwise/Pomodoro))
 - [Dinnerio](http://dinnerio.s3-website-us-west-2.amazonaws.com/) ([Angular](https://github.com/SamgeeGamwise/dinnerio-angular)) ([NestJS](https://github.com/SamgeeGamwise/dinnerio))
 - [HarperDB NPM Package](https://www.npmjs.com/package/harperdb-node) ([Node](https://github.com/SamgeeGamwise/harperdb-functions))
 - Announcement Bot ([Node](https://github.com/bubbzDotDev/bot-dashboard-backend))
