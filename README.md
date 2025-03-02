@@ -78,7 +78,7 @@ Here are some of the **cool things I've built**:
 ---
 
 ## 🔗 **Connect With Me**
+🌐 **Portfolio:** [samgee.gamwise.me](https://samgee.gamwise.me)  
 📍 **LinkedIn:** [Samuel Krohn](https://www.linkedin.com/in/samkrohn/)  
-
 📧 **Email:** samgee@gamwise.me
 
