@@ -23,7 +23,7 @@ Here are some of the **cool things I've built**:
 - A meal planning app for better home-cooked meals.
 
 ### 📦 **[HarperDB NPM Package](https://www.npmjs.com/package/harperdb-node)**
-- **Tech:** [Node.js](https://github.com/SamgeeGamwise/harperdb-functions)  
+- **Tech:** [Node.js](https://github.com/SamgeeGamwise/harperdb-node)  
 - An easy-to-use NPM package for interacting with HarperDB.
 
 ### 🔔 **[Announcement Bot](https://github.com/bubbzDotDev/bot-dashboard-backend)**
@@ -42,11 +42,7 @@ Here are some of the **cool things I've built**:
 ### 🚀 **[Asteroids Arcade Game](https://github.com/SamgeeGamwise/asteroids)**
 - **Tech:** [Python](https://github.com/SamgeeGamwise/asteroids)  
 - A simple remake of the classic **Asteroids** arcade game.
-
-### 🧟 **[Zombie Run!](http://zombierun.s3-website-us-west-2.amazonaws.com/)**
-- **Tech:** Vanilla JS + Firebase  
-- A fun **survival game** playable in the browser.
-
+  
 ---
 
 ## 🛠️ **Technologies & Tools**
@@ -64,10 +60,10 @@ Here are some of the **cool things I've built**:
 ![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
 
 ### **Databases & Cloud**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
