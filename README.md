@@ -101,8 +101,3 @@ Classic Asteroids arcade game rebuilt from scratch with physics-based movement.
 `Python`
 
 ---
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samgeegamwise&show_icons=true&theme=dark&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samgeegamwise&layout=compact&theme=dark)
