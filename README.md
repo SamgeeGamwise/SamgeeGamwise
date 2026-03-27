@@ -17,9 +17,9 @@ Currently working at **HireVue** maintaining an assessment platform used by mill
 - Works cross-functionally with product and QA to scope features, triage bugs, and ship reliable releases
 
 **Freelance Software Engineer** *(Feb 2024 – Present)*
-- [Solar Clean Colorado](https://www.solarcleancolorado.com/) — marketing site built with Gatsby.js
-- Darlene Kay, LLC — marketing site built with Eleventy + Nunjucks
-- Red Rock 1 — custom AirTable management interface built with Next.js
+- [DK Roofing, Painting, & Gutters](https://darlenekay.com/) — marketing site built with [Eleventy + Nunjucks](https://github.com/SamgeeGamwise/DarleneKay), deployed on Cloudflare
+- [Solar Clean Colorado](https://samgee.gamwise.me/solarcleancolorado/) — marketing site built with [Gatsby.js](https://github.com/Solarcleancolorado/solarcleancolorado.github.io), achieving a perfect Lighthouse score
+- Red Rock 1 — custom internal tool for viewing and updating operational data, built on the AirTable API with Next.js
 
 **Software Engineer Intern — RE/MAX, LLC** *(Feb 2020 – Nov 2020)*
 - Contributed to five production web properties including remax.net and joinremax.com
@@ -60,23 +60,45 @@ Currently working at **HireVue** maintaining an assessment platform used by mill
 
 ## 🚀 Projects
 
-### 🍽️ [Dinnerio](http://dinnerio.s3-website-us-west-2.amazonaws.com/)
-Meal planning app — [Angular frontend](https://github.com/SamgeeGamwise/dinnerio-angular) + [NestJS backend](https://github.com/SamgeeGamwise/dinnerio)
+### Client Work
 
-### 🐉 [Dragons D&D App](https://github.com/SamgeeGamwise/dragons_laravel)
-Web tool for managing D&D campaigns — Vue frontend + [Laravel backend](https://github.com/SamgeeGamwise/dragons_backend)
+**[DK Roofing, Painting, & Gutters](https://darlenekay.com/)** — [source](https://github.com/SamgeeGamwise/DarleneKay)
+Marketing website for a local roofing and painting business. Focused on performance and discoverability.
+`Eleventy` `Nunjucks` `Cloudflare`
 
-### 📦 [HarperDB NPM Package](https://www.npmjs.com/package/harperdb-node)
-Node.js package for interacting with HarperDB — [source](https://github.com/SamgeeGamwise/harperdb-node)
+**[Solar Clean Colorado](https://samgee.gamwise.me/solarcleancolorado/)** — [source](https://github.com/Solarcleancolorado/solarcleancolorado.github.io)
+Marketing website for a solar panel cleaning service, achieving a perfect Lighthouse score.
+`Gatsby.js`
 
-### 🚀 [Asteroids](https://github.com/SamgeeGamwise/asteroids)
-Classic arcade game remake — Python
+**Red Rock 1 Management Interface**
+Custom internal tool for viewing and updating operational data, built on top of the AirTable API.
+`Next.js` `AirTable API`
 
-### ⏳ [Pomodoro Timer](https://github.com/SamgeeGamwise/Pomodoro)
-Lightweight desktop Pomodoro timer — Electron
+### Personal Projects
 
-### 🎄 [Advent of Code 2024](https://github.com/SamgeeGamwise/advent-of-code-2024)
-My solutions — Rust
+**[Home Rhythm](https://github.com/SamgeeGamwise/ProductivityApp)**
+Skylight-inspired household productivity dashboard for Raspberry Pi. Google Calendar integration, todo/chore lists, and routine tracking — all in one always-on display.
+`Next.js` `TypeScript` `Tailwind CSS` `Google Calendar API`
+
+**[HarperDB NPM Package](https://www.npmjs.com/package/harperdb-node)** — [source](https://github.com/SamgeeGamwise/harperdb-node)
+Published npm package providing a clean Node.js interface for interacting with HarperDB.
+`Node.js`
+
+**[Dragons D&D](https://github.com/SamgeeGamwise/dragons_laravel)**
+Dungeons & Dragons companion app for managing campaigns, characters, and encounters.
+`Vue` `Laravel`
+
+**[30 Minute Pomodoro Timer](https://github.com/SamgeeGamwise/Pomodoro)**
+Cross-platform desktop application implementing the Pomodoro productivity technique.
+`Electron`
+
+**[Advent of Code 2024](https://github.com/SamgeeGamwise/advent-of-code-2024)**
+Solutions to Advent of Code 2024 puzzles, written as a way to learn Rust.
+`Rust`
+
+**[Asteroids Arcade Game](https://github.com/SamgeeGamwise/asteroids)**
+Classic Asteroids arcade game rebuilt from scratch with physics-based movement.
+`Python`
 
 ---
 
